@@ -1,4 +1,4 @@
-import cmake_example as m
+import ju as m
 
 
 def test_main():
